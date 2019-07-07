@@ -1,0 +1,29 @@
+
+  .jumbo {
+      background-image: url(../asset/header.jpg);
+      border-radius: 0;
+      margin-bottom: 0;
+      margin-top: 0;
+      text-align: center;
+      height: 300px;
+  
+      
+  }
+
+  .header{
+    padding: 60px;
+  }
+
+  .title {
+      font-size: 80px;
+      color: whitesmoke;
+  }
+
+  .subtitle {
+    font-size: 20px;
+    
+    color: whitesmoke;
+  }
+
+
+

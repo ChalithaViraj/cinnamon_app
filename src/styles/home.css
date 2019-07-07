@@ -1,0 +1,25 @@
+.jumbo2 {
+    border-radius: 0;
+    margin-bottom: 0;
+    margin-top: 20px;
+    background-color: rgb(160, 159, 168);
+    height: 300px;
+    border-radius: 30px;
+    
+  
+}
+
+.jumbo_text_head {
+    color: beige;
+    padding: 20px;
+
+}
+
+.img-style {
+    padding-top: 40px;
+    padding-left: 80px;
+}
+
+.foot-style {
+    width: 60px;
+}
