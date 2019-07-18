@@ -1,0 +1,11 @@
+.jumbotron {
+    height: 500px;
+    border-radius: 15px;
+    background-image: url(../asset/contact_image.jpg)
+    
+}
+
+.jumbo_1 {
+    padding: 10px;
+    padding-left: 20px;
+}

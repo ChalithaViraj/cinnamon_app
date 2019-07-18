@@ -1,0 +1,19 @@
+.uses-head {
+    text-align: center;
+    padding-top: 20px;
+    color: rgb(112, 107, 141);
+}
+
+.sub-text {
+    text-align: center;
+    padding-top: 50px;
+    color: rgb(70, 66, 90);
+}
+
+.uses-text {
+    padding-top: 30px;
+    color: rgb(119, 118, 118);
+    text-align: justify;
+    padding-left: 60px;
+    padding-right: 60px;
+}

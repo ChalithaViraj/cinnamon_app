@@ -22,7 +22,9 @@ class App extends Component {
           </div>
           
           <nav className="navbar navbar-expand-sm bg-dark navbar-dark" >
-          <a className="navbar-brand" href="/">LogoHere</a>
+          <a class="navbar-brand" href="/">
+            <img src="http://www.cinnamonsally.com/wp-content/uploads/2019/03/CS_logo2101.png" width="60" height="50"/>
+          </a>
           
           <ul className="navbar-nav ml-auto"> 
             <li><Link to={'/'} className="nav-link"> Home </Link></li>

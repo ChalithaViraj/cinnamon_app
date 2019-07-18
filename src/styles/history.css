@@ -1,0 +1,20 @@
+.image {
+    border-radius: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+  
+}
+
+.history-head {
+    text-align: center;
+    padding-top: 20px;
+    color: rgb(112, 107, 141);
+}
+
+.text {
+    padding-top: 80px;
+    color: rgb(119, 118, 118);
+    text-align: justify;
+}

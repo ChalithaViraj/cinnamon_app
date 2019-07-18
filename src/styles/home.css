@@ -11,15 +11,20 @@
 
 .jumbo_text_head {
     color: beige;
-    padding: 20px;
+    padding-top: 30px;
 
 }
 
 .img-style {
     padding-top: 40px;
     padding-left: 80px;
+    border-radius: 10px;
 }
 
 .foot-style {
     width: 60px;
+}
+
+.img-radius {
+    border-radius: 5px;
 }
