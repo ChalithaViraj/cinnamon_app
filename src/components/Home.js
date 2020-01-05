@@ -10,10 +10,10 @@ export class Home extends Component {
 
 
                 <div className="row">
-                    <div className="col-4">
-                        <img src="http://limaro.lk/wp-content/uploads/2018/05/blog1-1.jpg"  alt="1" width="500" height="300" className="img-style"/>
+                    <div className="col-lg-4 col-md-12">
+                        <img src="http://limaro.lk/wp-content/uploads/2018/05/blog1-1.jpg"  alt="1" width="500" height="300" className="img-style img-fluid"/>
                     </div>
-                    <div className="col-8">
+                    <div className="col-lg-8 col-md-12">
                         <div className="jumbotron jumbotron-fluid " className="jumbo2" >
                             <div className="container">
                             <h1 className="jumbo_text_head">HISTORY</h1>      
@@ -24,17 +24,17 @@ export class Home extends Component {
                                 venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus 
                                 elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, 
                                 enim. Aliquam lorem ante, dapibus in, viver </p>
-                            <a className="btn btn-primary btn-lg" href="./history" role="button">Read more</a>
+                            <a className="btn btn-primary " href="./history" role="button">Read more</a>
                         </div>
                         </div>
                     </div>
                 </div>
 
                 <div className="row">
-                    <div className="col-4">
-                        <img src="https://www.thespruceeats.com/thmb/9_J6AvSRaloTw1WrboBJv5B18-c=/450x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-486047135-583e221f5f9b58d5b193c7d7.jpg"  alt="2" width="500" height="300" className="img-style"/>
+                    <div className="col-lg-4 col-md-12">
+                        <img src="https://www.thespruceeats.com/thmb/9_J6AvSRaloTw1WrboBJv5B18-c=/450x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-486047135-583e221f5f9b58d5b193c7d7.jpg"  alt="2" width="500" height="300" className="img-style img-fluid"/>
                     </div>
-                    <div className="col-8">
+                    <div className="col-lg-8 col-md-12">
                         <div className="jumbotron jumbotron-fluid" className="jumbo2">
                         <div className="container">
                             <h1 className="jumbo_text_head">USES</h1>      
@@ -45,17 +45,17 @@ export class Home extends Component {
                                 venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus 
                                 elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, 
                                 enim. Aliquam lorem ante, dapibus in, viver</p>
-                            <a className="btn btn-primary btn-lg" href="./uses" role="button">Read more</a>
+                            <a className="btn btn-primary " href="./uses" role="button">Read more</a>
                         </div>                 
                         </div>
                     </div>
                 </div>
 
                 <div className="row">
-                    <div className="col-4">
-                        <img src="https://i.ytimg.com/vi/6ArUsaYJ68A/maxresdefault.jpg"  alt="3" width="500" height="300" className="img-style" /> 
+                    <div className="col-lg-4 col-md-12">
+                        <img src="https://i.ytimg.com/vi/6ArUsaYJ68A/maxresdefault.jpg"  alt="3" width="500" height="300" className="img-style img-fluid" /> 
                     </div>
-                    <div className="col-8">
+                    <div className="col-lg-8 col-md-12">
                         <div className="jumbotron jumbotron-fluid" className="jumbo2"  >
                             <div className="container">
                             <h1 className="jumbo_text_head">PRICES</h1>      
@@ -66,7 +66,7 @@ export class Home extends Component {
                                 venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus 
                                 elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, 
                                 enim. Aliquam lorem ante, dapibus in, viver</p>
-                            <a className="btn btn-primary btn-lg" href="./prices" role="button">Read more</a>
+                            <a className="btn btn-primary " href="./prices" role="button">Read more</a>
                             </div>
                         </div>
                     </div>

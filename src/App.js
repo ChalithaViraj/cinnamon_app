@@ -21,18 +21,30 @@ class App extends Component {
             </div>
           </div>
           
-          <nav className="navbar navbar-expand-sm bg-dark navbar-dark" >
-          <a class="navbar-brand" href="/">
-            <img src="http://www.cinnamonsally.com/wp-content/uploads/2019/03/CS_logo2101.png" width="60" height="50"/>
-          </a>
-          
-          <ul className="navbar-nav ml-auto"> 
-            <li><Link to={'/'} className="nav-link"> Home </Link></li>
-            <li ><Link to={'/contact'} className="nav-link">Contact</Link></li>
-            <li><Link to={'/history'} className="nav-link">History</Link></li>
-            <li><Link to={'/prices'} className="nav-link">Prices</Link></li>
-            <li><Link to={'/uses'} className="nav-link">Uses</Link></li>
-          </ul>
+          <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <a class="navbar-brand" href="/">Cinnamon</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+          <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+              <li class="nav-item active">
+                <Link to={'/'} className="nav-link"> Home</Link>
+              </li>
+              <li class="nav-item">
+                <Link to={'/contact'} className="nav-link">Contact</Link>
+              </li>
+              <li class="nav-item">
+                <Link to={'/history'} className="nav-link">History</Link>
+              </li>
+              <li class="nav-item">
+                <Link to={'/prices'} className="nav-link">Prices</Link>
+              </li>
+              <li class="nav-item">
+                <Link to={'/uses'} className="nav-link">Uses</Link>
+              </li>
+            </ul>
+          </div>
           </nav>
           
           <Switch>
@@ -52,3 +64,19 @@ class App extends Component {
 }
 
 export default App;
+
+// <nav className="navbar navbar-expand-sm bg-dark navbar-dark" >
+//           <a class="navbar-brand" href="/">
+//             <img src="http://www.cinnamonsally.com/wp-content/uploads/2019/03/CS_logo2101.png" width="60" height="50"/>
+//           </a>
+          
+//           <div id="navbarNav">
+//             <ul className="navbar-nav ml-auto"> 
+//               <li><Link to={'/'} className="nav-link"> Home </Link></li>
+//               <li ><Link to={'/contact'} className="nav-link">Contact</Link></li>
+//               <li><Link to={'/history'} className="nav-link">History</Link></li>
+//               <li><Link to={'/prices'} className="nav-link">Prices</Link></li>
+//               <li><Link to={'/uses'} className="nav-link">Uses</Link></li>
+//             </ul>
+//           </div>
+//           </nav>

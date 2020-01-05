@@ -18,3 +18,8 @@
     color: rgb(119, 118, 118);
     text-align: justify;
 }
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+  }

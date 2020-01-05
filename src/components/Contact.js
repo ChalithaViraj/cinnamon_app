@@ -48,10 +48,10 @@ handleClick = (event) => {
         return (
 
             <div className="row">
-                 <div className="col">
-                <div className="jumbo_1">
-                 <p className="jumbotron ">
-                 <h5 >Cinnamon Sri Lanka</h5>
+                 <div className="col-lg-6 col-md-12">
+                    <div className="jumbo_1">
+                        <p className="jumbotron ">
+                            <h5 >Cinnamon Sri Lanka</h5>
                                 <dl>
                                     <dt >Address:</dt>
                                     <dd >798 South Park Avenue, Jaipur, Raj</dd>
@@ -69,10 +69,12 @@ handleClick = (event) => {
                                     <dt>fax:</dt>
                                     <dd><a>+91 7568543012</a></dd>
                                 </dl>
-                 </p>
-                 </div>
+                        </p>
+                    </div>
                  </div>   
-                <div className="col">
+                <div className="col-lg-6 col-md-12">
+
+
             <form className="container" onSubmit={this.handleClick}>
                 <div>
                     <h1 className="container" >Contact Us</h1>

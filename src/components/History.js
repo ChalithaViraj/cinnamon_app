@@ -11,14 +11,14 @@ export class History extends Component {
                     <h1 className="history-head">History Of Sri Lankan Cinnamon</h1>
                 </div>
                 <div class="row" >
-                    <div class="col-md-4 " >
-                        <img src="http://lankapura.com/wp-content/uploads/2011/11/Baling-cinnamon-ceylon.jpg"  className="image" width="500" height="280"></img>
+                    <div class="col-lg-4 col-md-12" >
+                        <img src="http://lankapura.com/wp-content/uploads/2011/11/Baling-cinnamon-ceylon.jpg"  className="image thumbnail img-fluid" width="500" height="280"></img>
                     </div>
-                    <div class="col-md-4">
-                    <img src="http://limaro.lk/wp-content/uploads/2018/05/blog1-1.jpg" className="image" width="500" height="280" ></img>
+                    <div class="col-lg-4 col-md-12">
+                    <img src="http://limaro.lk/wp-content/uploads/2018/05/blog1-1.jpg" className="image thumbnail img-fluid" width="500" height="280" ></img>
                     </div>
-                    <div class="col-md-4">
-                    <img src="http://serendib.btoptions.lk/cpanel/uploader/699/4.jpg.JPEG" className="image" width="500" height="280" ></img>
+                    <div class="col-lg-4 col-md-12">
+                    <img src="http://serendib.btoptions.lk/cpanel/uploader/699/4.jpg.JPEG" className="image thumbnail img-fluid" width="500" height="280" ></img>
                     </div>
                 </div>
                 <div  className="container text">

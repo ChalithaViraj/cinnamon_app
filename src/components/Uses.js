@@ -29,7 +29,7 @@ export class Uses extends Component {
                     </p>
 
                     <div className="row">
-                        <div className="col 6">
+                        <div className="col-lg-6 col-md-12">
                             <h5 className="sub-text">Cinnamon Bark</h5>
 
                             <p className="container uses-text">
@@ -64,7 +64,7 @@ export class Uses extends Component {
                             </p>
 
                         </div>
-                        <div className="col 6">
+                        <div className="col-lg-6 col-md-12">
                             <h5 className="sub-text">Leaf Oil</h5>
                             <p className="container uses-text">
 

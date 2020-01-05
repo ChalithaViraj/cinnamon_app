@@ -8,7 +8,7 @@ export class Prices extends Component {
                <h1 className="prices-head"> Prices of Cinnamon </h1>
                 <div className="row">
 
-                    <div className="col-md-4 " >
+                    <div className="col-lg-4 col-md-6" >
                         <div className="card style-card prices-image" >
                             <img className="card-img-top radius" src="http://www.cinnatopia.com/wp-content/uploads/2015/01/01301-370x247.jpg" alt="Card image cap"/>
                             <div className="card-body">
@@ -18,7 +18,7 @@ export class Prices extends Component {
                         </div>
                     </div>
 
-                    <div className="col-md-4 " >
+                    <div className="col-lg-4 col-md-6" >
                         <div className="card style-card prices-image" >
                             <img className="card-img-top radius" src="http://www.cinnatopia.com/wp-content/uploads/2015/01/01301-370x247.jpg" alt="Card image cap"/>
                             <div className="card-body">
@@ -28,7 +28,7 @@ export class Prices extends Component {
                         </div>
                     </div>
 
-                    <div className="col-md-4 " >
+                    <div className="col-lg-4 col-md-6" >
                         <div className="card style-card prices-image" >
                             <img className="card-img-top radius" src="http://www.cinnatopia.com/wp-content/uploads/2015/01/01301-370x247.jpg" alt="Card image cap"/>
                             <div className="card-body">
@@ -38,11 +38,9 @@ export class Prices extends Component {
                         </div>
                     </div>
                     
-                </div>
+               
 
-                <div className="row">
-
-                    <div className="col-md-4 " >
+                    <div className="col-lg-4 col-md-6" >
                         <div className="card style-card prices-image" >
                             <img className="card-img-top radius" src="http://www.cinnatopia.com/wp-content/uploads/2015/01/01301-370x247.jpg" alt="Card image cap"/>
                             <div className="card-body">
@@ -52,7 +50,7 @@ export class Prices extends Component {
                         </div>
                     </div>
 
-                    <div className="col-md-4 " >
+                    <div className="col-lg-4 col-md-6" >
                         <div className="card style-card prices-image" >
                             <img className="card-img-top radius" src="http://www.cinnatopia.com/wp-content/uploads/2015/01/01301-370x247.jpg" alt="Card image cap"/>
                             <div className="card-body">
@@ -62,12 +60,12 @@ export class Prices extends Component {
                         </div>
                     </div>
 
-                    <div className="col-md-4 " >
+                    <div className="col-lg-4 col-md-6" >
                         <div className="card style-card prices-image" >
                             <img className="card-img-top radius" src="http://www.cinnatopia.com/wp-content/uploads/2015/01/01301-370x247.jpg" alt="Card image cap"/>
                             <div className="card-body">
                                 <h5 className="card-title">C5 Special</h5>
-                                <p className="card-text">5500</p>
+                                <p className="card-text">1KG = Rs.5500/=</p>
                             </div>
                         </div>
                     </div>
